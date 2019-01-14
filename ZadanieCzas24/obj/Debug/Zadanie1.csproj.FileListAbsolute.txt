@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Czas24\Czas24\ZadanieCzas24\bin\Debug\Zadanie 1.exe.config
+C:\Users\Admin\Desktop\Czas24\Czas24\ZadanieCzas24\bin\Debug\Zadanie 1.exe
+C:\Users\Admin\Desktop\Czas24\Czas24\ZadanieCzas24\bin\Debug\Zadanie 1.pdb
+C:\Users\Admin\Desktop\Czas24\Czas24\ZadanieCzas24\obj\Debug\Zadanie1.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Czas24\Czas24\ZadanieCzas24\obj\Debug\Zadanie1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Czas24\Czas24\ZadanieCzas24\obj\Debug\Zadanie 1.exe
+C:\Users\Admin\Desktop\Czas24\Czas24\ZadanieCzas24\obj\Debug\Zadanie 1.pdb

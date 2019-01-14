@@ -1,0 +1,7 @@
+C:\Users\Magda\Desktop\programmer\ZadanieCzas24\Zadanie1\ZadanieCzas24\bin\Debug\ZadanieCzas24.exe.config
+C:\Users\Magda\Desktop\programmer\ZadanieCzas24\Zadanie1\ZadanieCzas24\bin\Debug\ZadanieCzas24.exe
+C:\Users\Magda\Desktop\programmer\ZadanieCzas24\Zadanie1\ZadanieCzas24\bin\Debug\ZadanieCzas24.pdb
+C:\Users\Magda\Desktop\programmer\ZadanieCzas24\Zadanie1\ZadanieCzas24\obj\Debug\ZadanieCzas24.csprojAssemblyReference.cache
+C:\Users\Magda\Desktop\programmer\ZadanieCzas24\Zadanie1\ZadanieCzas24\obj\Debug\ZadanieCzas24.csproj.CoreCompileInputs.cache
+C:\Users\Magda\Desktop\programmer\ZadanieCzas24\Zadanie1\ZadanieCzas24\obj\Debug\ZadanieCzas24.exe
+C:\Users\Magda\Desktop\programmer\ZadanieCzas24\Zadanie1\ZadanieCzas24\obj\Debug\ZadanieCzas24.pdb
